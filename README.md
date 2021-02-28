@@ -80,11 +80,11 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - 建立在谷歌云平台上的App开发平台.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - 一套帮助您构建机器人应用程序的软件库和工具.
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - 可视化和存储来自任何设备的数据.
-- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
-- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
-- [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
-- [Deno](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
-- [DOS](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - 为您的网站提供CDN, DNS, DDoS保护和安全。.
+- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - 用于Actions on Google的开发平台.
+- [ESP](https://github.com/agucova/awesome-esp#readme) - 具有WiFi和广泛物联网应用的低成本微控制器.
+- [Deno](https://github.com/denolib/awesome-deno#readme) - 一个使用V8并且内置Rust的，安全的JavaScript和TypeScript运行时.
+- [DOS](https://github.com/balintkissdev/awesome-dos#readme) - 流行于20世纪80年代和90年代初的基于x86的个人电脑的操作系统.
 
 ## Programming Languages
 
