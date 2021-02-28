@@ -86,35 +86,35 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Deno](https://github.com/denolib/awesome-deno#readme) - 一个使用V8并且内置Rust的，安全的JavaScript和TypeScript运行时.
 - [DOS](https://github.com/balintkissdev/awesome-dos#readme) - 流行于20世纪80年代和90年代初的基于x86的个人电脑的操作系统.
 
-## Programming Languages
+## 编程语言
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises#readme)
-	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
+	- [Standard Style](https://github.com/standard/awesome-standard#readme) - 编码风格指南和检查工具.
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
-	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
-	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - Package manager.
-	- [AVA](https://github.com/avajs/awesome-ava#readme) - Test runner.
-	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter.
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - 听起来不可能但却存在的项目.
+	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - 用于 npm 包的维护或开发.
+	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - 包管理器.
+	- [AVA](https://github.com/avajs/awesome-ava#readme) - 测试运行器.
+	- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - 代码风格和语法检查器.
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
-	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
-	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-	- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
-- [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
+	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - npm脚本.
+	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - 你可以在30秒内理解的代码片段.
+	- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - 类似兼容代码，但不会重写本地APIs.
+- [Swift](https://github.com/matteocrippa/awesome-swift#readme) - 苹果的编译型编程语言，安全，现代，程序员友好，快速.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-- [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
-	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
-	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
-	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
-	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+- [Python](https://github.com/vinta/awesome-python#readme) - 为可读性而设计的通用编程语言.
+	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Python 3中的异步I/O.
+	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - 有关音频和音乐的科学研究.
+	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - 用于微控制器的Python版本.
+	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) -数据分析和机器学习.
+	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - 可选的Python静态类型.
+	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - 一个针对微控制器的Python 3的精简和高效的实现.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
