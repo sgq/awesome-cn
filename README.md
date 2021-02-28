@@ -1,6 +1,7 @@
 # awesome-cn
 https://github.com/sindresorhus/awesome 的中文翻译版本
 
+有问题可加qq群：293989395
 
 ## Contents
 
