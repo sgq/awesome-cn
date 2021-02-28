@@ -163,7 +163,7 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](https://github.com/vlang/awesome-v#readme) - 可用来开发可维护软件的、简单、快速、安全、可编译的语言.
 
-## Front-End Development
+## 前端开发
 
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
@@ -245,80 +245,80 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - 应用程序框架.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - 一份关于给开发人员的设计系统的书签、资源和文章的列表.
 
-## Back-End Development
+## 后端开发
 
-- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
+- [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python 框架.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
-- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - 自动化虚拟机环境.
+- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python 框架.
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
-- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
-- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP 框架.
+- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP 框架.
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
-- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
+- [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP 框架.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-	- [TALL Stack](https://github.com/blade-ui-kit/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
-- [Rails](https://github.com/gramantin/awesome-rails#readme) - Web app framework for Ruby.
-	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
-- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
+	- [TALL Stack](https://github.com/blade-ui-kit/awesome-tall-stack#readme) - 由Laravel社区构建的、具有全栈开发解决方案特征的库.
+- [Rails](https://github.com/gramantin/awesome-rails#readme) - Ruby的Web应用框架.
+	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - 包.
+- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP 框架.
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
-- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
-- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
-- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
-- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
-- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
-- [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
-- [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
-- [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
-- [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
+- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web 服务器.
+- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java 框架.
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - 自动化Linux容器操作的开源平台.
+- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP 微框架.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - 无服务器计算和无服务器架构.
+- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web应用框架.
+- [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 在JVM上构建响应式应用程序的工具包.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建、更改和版本化基础设施的工具.
+- [Vapor](https://github.com/Cellane/awesome-vapor#readme) - 使用Swift进行服务器端开发.
+- [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web应用程序框架.
+- [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web应用程序框架.
+- [CDK](https://github.com/kolomied/awesome-cdk#readme) - 用于在代码中定义云基础设施的开源软件开发框架.
 
-## Computer Science
+## 计算机科学
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
 - [Data Science](https://github.com/academic/awesome-datascience#readme)
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
-	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
-	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
-	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
-	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
-	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - 使用Ruby学习、实现、应用机器学习。
+	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - 苹果机器学习框架的模型.
+	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - 开源分布式机器学习平台，用Java编写，提供R、Python和Scala的api.
+	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - 从实验到生产级别的机器学习.
+	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) -使用机器学习解决金融问题.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
-	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
-	- [Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
+	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) - 用自然语言与机器进行问答的科学.
+	- [Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme) - 自然语言生成
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
-	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
+	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - 提供给非密码学专家的论文、文章、指南和入门书.
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
-	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
-	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
-	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - 神经网络.
+	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - 机器智能库.
+	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - 用于训练和部署模型的、带有webgl加速的、机器学习的JavaScript库.
+	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - 对运行在移动设备和边缘设备中的TensorFlow模型提供了优化的框架.
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) -被最多引用的深度学习论文.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
-- [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
+- [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - 软件系统的循证研究.
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
-- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - 学会开发自己的搜索引擎.
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - 利用量子力学和量子计算机上的量子位的计算.
 
-## Big Data
+## 大数据
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
 - [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - Framework for distributed storage and processing of very large data sets.
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme) - 超大数据集的分布式存储和处理框架.
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
-- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
-- [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
+- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) -大规模数据处理的统一引擎.
+- [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - 用于数据可视化、分析和报告应用程序的商业智能平台.
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
 
 ## Theory
