@@ -31,55 +31,55 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [活动/会议](#events)
 - [测试](#testing)
 - [其他](#miscellaneous)
-- [Related](#related)
+- [相关](#related)
 
-## Platforms
+## 平台
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - 基于 Chrome's V8引擎的异步非阻塞事件驱动JavaScript运行时.
+	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - 在 Node.js上编写跨平台代码.
+- [前端开发](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
+- [iOS](https://github.com/vsouza/awesome-ios#readme) - 用于苹果手机和平板电脑的操作系统.
+- [Android](https://github.com/JStumpp/awesome-android#readme) - 谷歌开发的移动操作系统.
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
-- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
-- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
+- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - 使用JavaScript/HTML/CSS开发跨平台原生桌面应用.
+- [Cordova](https://github.com/busterc/awesome-cordova#readme) -混合应用的JavaScript API.
+- [React Native](https://github.com/jondot/awesome-react-native#readme) - 为iOS和Android编写原生渲染移动应用的JavaScript框架.
+- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - 移动应用开发IDE，测试和分发.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
+	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - 虚拟机，让您为Linux系统编写更有效和强大的跟踪和监视程序。
+	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - 基于Arch Linux的Linux发行版和项目.
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) -苹果Mac电脑的操作系统。
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
 	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
+- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) -苹果手表操作系统.
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
-- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
-- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
-- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
-- [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
-- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
-- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
-- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
-- [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
+- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P超媒体协议.
+- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - 移动开发工具.
+- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - 云平台即服务.
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的电脑，旨在教孩子编程，但功能远不止于此.
+- [Qt](https://github.com/JesseTG/awesome-qt#readme) - 跨平台GUI应用程序框架.
+- [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - 跨浏览器的扩展系统.
+- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - 用Ruby为iOS、Android、macOS、tvOS和watchOS编写跨平台原生应用.
+- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - 为不同的电视平台开发应用.
+- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - 简单 无干扰的Linux桌面环境.
+- [KDE](https://github.com/francoism90/awesome-kde#readme) - 一个自由的软件社区，致力于创造一个开放的和用户友好的计算体验.
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
-	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
-- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
-- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
-- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
-- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
-- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
-- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
-- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
+	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - c#和VB的开源编译器和代码分析api.
+- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - 虚拟家庭助理.
+- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - 专为开发人员设计的云计算平台.
+- [Flutter](https://github.com/Solido/awesome-flutter#readme) - 谷歌的移动SDK，用于从使用Dart编写的单个代码库构建本地iOS和Android应用程序.
+- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - 将本地控制和隐私放在首位的开源家庭自动化.
+- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - 面向开发人员和公司的云平台.
+- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - 建立在谷歌云平台上的App开发平台.
+- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - 一套帮助您构建机器人应用程序的软件库和工具.
+- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - 可视化和存储来自任何设备的数据.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
 - [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
