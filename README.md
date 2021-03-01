@@ -319,22 +319,22 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) -大规模数据处理的统一引擎.
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - 用于数据可视化、分析和报告应用程序的商业智能平台.
-- [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
+- [Splunk](https://github.com/sduff/awesome-splunk#readme) - Splunk在可搜索的存储库中捕获、索引并关联实时数据，从中可以生成图表、报告、警报、指示板和可视化
 
-## Theory
+## 理论
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
-	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - 算法学习和练习.
 - [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
-- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - 遍历嵌套的数据结构.
 
-## Books
+## 书籍
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
 - [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality#readme)
@@ -344,28 +344,28 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
 
-## Editors
+## 编辑器
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
 - [Vim](https://github.com/mhinz/vim-galore#readme)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
-- [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
+- [Atom](https://github.com/mehcode/awesome-atom#readme) - 开源、可深度定制的文本编辑器.
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - 跨平台开源文本编辑器.
 
-## Gaming
+## 游戏
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
-- [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
+- [Godot](https://github.com/Calinou/awesome-godot#readme) - 游戏引擎.
 - [Open Source Games](https://github.com/leereilly/games#readme)
-- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
+- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - 游戏引擎.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
-- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
-- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
+- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - 游戏引擎.
+- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - 梦幻控制台.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
-- [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.
-- [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
-- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+- [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - 游戏引擎.
+- [Gideros](https://github.com/stetso/awesome-gideros#readme) - 游戏引擎.
+- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - 沙箱游戏.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 - [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
