@@ -366,15 +366,15 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - 游戏引擎.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - 游戏引擎.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - 沙箱游戏.
-- [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
-- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
-- [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
-- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
-- [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
-- [Flame](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
-- [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
-- [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
-- [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+- [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - 游戏中的人工智能材料和数据集。.
+- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - 一种高级强类型编程语言，用于生成跨平台本机代码.
+- [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java 游戏框架.
+- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - 游戏引擎.
+- [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) - 积极维护的、开源游戏的翻拍.
+- [Flame](https://github.com/flame-engine/awesome-flame#readme) - 用于 Flutter的游戏引擎.
+- [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - 与朋友和社区聊天.
+- [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - 70年代的虚拟电脑游戏机.
+- [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 通过制作游戏学习编程语言.
 
 ## Development Environment
 
