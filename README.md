@@ -376,89 +376,89 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - 70年代的虚拟电脑游戏机.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - 通过制作游戏学习编程语言.
 
-## Development Environment
+## 开发环境
 
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - .
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
-- [Fish](https://github.com/jorgebucaran/awesome-fish#readme) - User-friendly shell.
+- [Fish](https://github.com/jorgebucaran/awesome-fish#readme) -用户友好的shell.
 - [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
-- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
+- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Git存储库的托管服务.
 	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
-	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - 将动态数据添加到pinned gist的工具.
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
-- [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
-- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - 增强 `git` 命令行的工具.
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - 用在'git'工作流中的自动化任务中的脚本.
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
-- [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
-- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
-- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - Productivity app for macOS.
+- [Hyper](https://github.com/bnb/awesome-hyper#readme) - 基于web技术的跨平台终端应用程序.
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - 跨平台的面向对象的命令行界面.
+- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - macOS的生产力应用程序.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
-- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - 创建任务来自动化您的工作流程，并在GitHub上与他人分享.
 
-## Entertainment
+## 娱乐
 
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
+- [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - 科幻小说.
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
 - [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
 
-## Databases
+## 数据库
 
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme)
 - [Neo4j](https://github.com/neueda/awesome-neo4j#readme)
-- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
+- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL数据库.
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
-- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - Graph computing framework.
-- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
-- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
-- [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
-- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
-- [Contexture](https://github.com/ltchris/awesome-contexture#readme) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
-- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
+- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - 图计算框架.
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - 对象-关系数据库.
+- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - 面向文档的NoSQL数据库.
+- [HBase](https://github.com/rayokota/awesome-hbase#readme) - 分布式、可扩展的大数据存储库.
+- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - 关于使用非关系型、分布式、开源和水平可扩展的数据库的帮助.
+- [Contexture](https://github.com/ltchris/awesome-contexture#readme) - 抽象来自不同后台数据存储(如ElasticSearch和MongoDB)的查询/过滤器和结果/聚合。
+- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) -使数据库操作更容易的所有的东西.
 
-## Media
+## 媒体
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
 - [Fonts](https://github.com/brabadu/awesome-fonts#readme)
-- [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
+- [Codeface](https://github.com/chrissimpkins/codeface#readme) - 文本编辑器字体.
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
-- [GIF](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
+- [GIF](https://github.com/davisonio/awesome-gif#readme) - 以动画图像著称的图像格式.
 - [Music](https://github.com/ciconia/awesome-music#readme)
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents#readme)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
-- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
-- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
-- [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
-- [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - 像素级数字艺术.
+- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - 录制、转换和传输音频和视频的跨平台解决方案.
+- [Icons](https://github.com/notlmn/awesome-icons#readme) - 可下载的SVG/PNG/font图标项目.
+- [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - 专业环境中的照明，音频和视频。
 
-## Learn
+## 学习
 
-- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
+- [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - 基于命令行的交互式教程. ***
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
 - [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
 - [Computer History](https://github.com/watson/awesome-computer-history#readme)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
-- [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+- [Educational Games](https://github.com/yrgo/awesome-educational-games#readme) - 寓教于乐.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
-- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
-- [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
-- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
-- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - 主要介绍CSS -语言和模块.
+- [Product Management](https://github.com/dend/awesome-product-management#readme) - 学习如何成为一个更好的产品经理.
+- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - 给你一个清晰的途径来提高你的知识和技能.
+- [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - 观看youtube上教授技术的视频教程.
 
-## Security
+## 安全
 
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
@@ -466,11 +466,11 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
-- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - 欺骗陷阱，被设计用来引诱攻击者去破坏组织中的信息系统。
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
-- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - 网络应用程序和服务的安全性.
+- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - 不需要钥匙就能操作锁的部件来解锁的艺术.（就是家里用的锁）
 - [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
