@@ -514,37 +514,37 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 
 ## 工作
 
-- [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
+- [Slack](https://github.com/matiassingers/awesome-slack#readme) - 团队协作.
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
-- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
-- [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+- [Code Review](https://github.com/joho/awesome-code-review#readme) - 审查代码.
+- [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - 专门结合计算、设计、艺术和用户体验的企业和团体。
 
 
-## Networking
+## 网络
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
-- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
+- [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - 几乎同时交换媒体和数据的网络协议.
 
-## Decentralized Systems
+## 分布式系统
 
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
-- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
-- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
-- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
-- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
-- [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
-- [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
-- [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
-- [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - 为软件开发者提供的比特币服务和工具.
+- [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - 开源分布式结算网络.
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - 非金融区块链的应用.
+- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - 开源去中心化微博客网络.
+- [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) -面向智能合约开发的分布式计算平台.
+- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - 面向人工智能和机器学习的区块链项目.
+- [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) -支持工业规模app的分布式操作系统.
+- [Corda](https://github.com/chainstack/awesome-corda#readme) - 为商业设计的开源区块链平台.
+- [Waves](https://github.com/msmolyakov/awesome-waves#readme) - 用于Web 3.0应用程序和分布式解决方案的开源区块链平台和开发工具集.
+- [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - 用Rust编写可伸缩、可升级区块链的框架.
 
-## Higher Education
+## 高等教育
 
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
