@@ -546,12 +546,12 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 
 ## 高等教育
 
-- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
-- [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
-- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
-- [Sustainable Technology](https://github.com/protontypes/awesome-sustainable-technology#readme) - Open technology sustaining stable climate, energy supply, and vital natural resources.
+- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) -用计算方法研究神经系统的多学科科学。
+- [Digital History](https://github.com/maehr/awesome-digital-history#readme) - 计算机辅助的对历史的科学调查.
+- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - 科学写作工具，不仅仅是 LaTeX,还有 Markdown , reStructuredText 和 Jupyter notebooks.
+- [Sustainable Technology](https://github.com/protontypes/awesome-sustainable-technology#readme) - 可维持稳定的气候、能源供应和重要的自然资源的开放技术。
 
-## Events
+## 活动/会议
 
 - [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 - [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
