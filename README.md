@@ -471,33 +471,33 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - 网络应用程序和服务的安全性.
 - [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - 不需要钥匙就能操作锁的部件来解锁的艺术.（就是家里用的锁）
-- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
-- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - 一群在信息系统中发现安全漏洞的人.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - 通过输入伪随机方式生成的输入数据软件进行自动化测试的技术。
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
-- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
-- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - 欧盟内部关于个人数据保护和隐私的条例.
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - 将安全实践集成到 [DevOps](https://en.wikipedia.org/wiki/DevOps)中.
 
-## Content Management Systems
+## 内容管理系统（CMS）
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
-- [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
-- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
-- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
-- [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
-- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET digital marketing platform that combines CMS with tools for managing multiple websites.
-- [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
+- [Wagtail](https://github.com/springload/awesome-wagtail#readme) - 聚焦灵活性和用户体验的Django CMS.
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - 轻量级、基于PHP的 CMS.
+- [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - 可扩展的、基于PHP的 CMS.
+- [Craft CMS](https://github.com/craftcms/awesome#readme) - 内容优先的 CMS.
+- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore#readme) - .NET数字营销平台，它将CMS与管理多个网站的工具相结合.
+- [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC框架，被作为一个经典的或无头CMS使用.
 
-## Hardware
+## 硬件
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
-- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - 为为电子工程师和业余爱好者准备的资源.
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
-- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
-- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
-- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
-- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - 这是一个组装一把实心电吉他的“自上而下的清单”。.
+- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - 计算机控制的绘图机和其他视觉艺术机器人.
+- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - 用于专业机器人开发的免费开源工具.
+- [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - 通过使用激光照亮目标来测量距离的传感器.
 
 ## Business
 
