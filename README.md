@@ -499,20 +499,20 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - 用于专业机器人开发的免费开源工具.
 - [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - 通过使用激光照亮目标来测量距离的传感器.
 
-## Business
+## 企业
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
-- [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
-- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
-- [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
-- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
-- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
-- [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - 目标设定和沟通的最佳实践.
+- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - 在科技公司/环境中领导他人并成为一名管理者.
+- [Indie](https://github.com/mezod/awesome-indie#readme) - 帮助独立开发者赚钱的资源. *****
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) -Hacker News上的行业工具.
+- [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - 用技术对抗气候变化.
+- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - 提供高度的态势感知，以帮助改进战略规划和决策制定。
+- [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - 建立一个主要关注社会影响的组织，并且至少可以做到自筹部分资金。
+- [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - 如何从软件开发过渡到工程管理.
 
-## Work
+## 工作
 
 - [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
