@@ -553,27 +553,27 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 
 ## 活动/会议
 
-- [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
-- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
-- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
+- [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - 世界各地的有关创意编码、技术、设计、音乐、艺术和酷东西的活动。
+- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - 意大利的科技相关活动.
+- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - 荷兰的技术相关活动.
 
-## Testing
+## 测试
 
-- [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
-- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
-- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
-- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
-- [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
-- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
-- [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
-- [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+- [Testing](https://github.com/TheJambo/awesome-testing#readme) - 软件测试.
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - 确保更改不会破坏功能或样式.
+- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - 开源浏览器自动化框架和生态系统.
+- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - 应用程序测试自动化工具.
+- [TAP](https://github.com/sindresorhus/awesome-tap#readme) - [Test Anything Protocol](https://testanything.org/).
+- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - 负载测试和性能度量工具.
+- [k6](https://github.com/k6io/awesome-k6#readme) - 开源的、以开发人员为中心的性能监视和负载测试解决方案.
+- [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) - 用一个API来自动化Chromium, Firefox和WebKit的Node.js库.
 
-## Miscellaneous
+## 其他
 
-- [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
+- [JSON](https://github.com/burningtree/awesome-json#readme) - 基于文本的数据交换格式.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
-- [CSV](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
+- [CSV](https://github.com/secretGeek/awesomeCSV#readme) - 一种存储表格数据并使用逗号分隔值的文本文件格式.
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme)
 - [Radio](https://github.com/kyleterry/awesome-radio#readme)
 - [Awesome](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
@@ -582,8 +582,8 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering#readme)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev#readme)
-- [Answers](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
-- [Sketch](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
+- [Answers](https://github.com/cyberglot/awesome-answers#readme) -在stackoverflow, quora等网站上的鼓舞人心的和深思熟虑的答案的列表。.
+- [Sketch](https://github.com/diessica/awesome-sketch#readme) - 为macOS设计应用程序.
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
 - [Readme](https://github.com/matiassingers/awesome-readme#readme)
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
@@ -591,41 +591,41 @@ https://github.com/sindresorhus/awesome 的中文翻译版本
 - [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
 - [FOSS Production Apps](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 - [Gulp](https://github.com/alferov/awesome-gulp#readme) - Task runner.
-- [AMA](https://github.com/sindresorhus/amas#readme) - Ask Me Anything.
+- [AMA](https://github.com/sindresorhus/amas#readme) - 可以问我任何问题.
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers#readme)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
-- [OpenGL](https://github.com/eug/awesome-opengl#readme) - Cross-platform API for rendering 2D and 3D graphics.
+- [OpenGL](https://github.com/eug/awesome-opengl#readme) - 用于渲染2D和3D图形的跨平台API.
 - [GraphQL](https://github.com/chentsulin/awesome-graphql#readme)
 - [Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme)
 - [Social Media Share Links](https://github.com/vinkla/shareable-links#readme)
 - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
-- [Unicode](https://github.com/Wisdom/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
+- [Unicode](https://github.com/Wisdom/Awesome-Unicode#readme) - Unicode标准、怪异模式、包和资源.
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
 - [Katas](https://github.com/gamontal/awesome-katas#readme)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme)
-- [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - For community-based and non-institutional scientists.
-- [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
+- [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - 一个精选的软件和其他资源列表，让那些想使用科学工具来增强社区能力和/或实践各种形式的非机构科学的人能够使用.
+- [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) - “物联网”连接协议.
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
-- [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI framework.
-- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
-- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - Typesetting language.
-- [Economics](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
+- [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js 命令行界面框架.
+- [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - 低开销，跨平台3D图形和计算API.
+- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - 排版语言.
+- [Economics](https://github.com/antontarasenko/awesome-economics#readme) - 经济学家的入门工具包.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
-- [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-- [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
-- [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
-- [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
+- [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - 信息学技术在化学问题中的应用.
+- [Colorful](https://github.com/Siddharth11/Colorful#readme) - 选择下一个配色方案。
+- [Steam](https://github.com/scholtzm/awesome-steam#readme) - 数字发行平台.
+- [Bots](https://github.com/hackerkid/bots#readme) - 构建机器人.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
-- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
-- [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - Dynamic tracing framework.
-- [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) - Enhance your browsing experience.
+- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - 建立和推广更具同情心的工程文化.
+- [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - 动态跟踪框架.
+- [Userscripts](https://github.com/brunocvcunha/awesome-userscripts#readme) - 增强您的浏览体验.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
-- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - 通过聊天管理技术和业务操作.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - Falsehoods programmers believe in.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - Self-tracking through technology.
